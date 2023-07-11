@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pablo-cavada/static/css/main.abd64e84.css",
+    "main.js": "/pablo-cavada/static/js/main.bc3cbfb3.js",
+    "index.html": "/pablo-cavada/index.html",
+    "main.abd64e84.css.map": "/pablo-cavada/static/css/main.abd64e84.css.map",
+    "main.bc3cbfb3.js.map": "/pablo-cavada/static/js/main.bc3cbfb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.bc3cbfb3.js"
+  ]
+}
