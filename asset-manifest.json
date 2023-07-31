@@ -1,13 +1,33 @@
 {
   "files": {
-    "main.css": "/pablo-cavada/static/css/main.abd64e84.css",
-    "main.js": "/pablo-cavada/static/js/main.bc3cbfb3.js",
+    "main.css": "/pablo-cavada/static/css/main.95626df3.css",
+    "main.js": "/pablo-cavada/static/js/main.7c43fc46.js",
+    "static/media/home1.jpg": "/pablo-cavada/static/media/home1.2605f071e1c12030e597.jpg",
+    "static/media/cartgif.gif": "/pablo-cavada/static/media/cartgif.83e08cb3305d20206d6c.gif",
+    "static/media/facedesign.png": "/pablo-cavada/static/media/facedesign.e2bc1fbc3e1ee1228e19.png",
+    "static/media/basicecommerce.png": "/pablo-cavada/static/media/basicecommerce.620d7296c9aef78e055a.png",
+    "static/media/shopifyproject.png": "/pablo-cavada/static/media/shopifyproject.1223f7f53cfd5d6bbdfc.png",
+    "static/media/sql.png": "/pablo-cavada/static/media/sql.167c88550478e6f0f85c.png",
+    "static/media/js.png": "/pablo-cavada/static/media/js.ba0a928588f389c91981.png",
+    "static/media/tailwind.png": "/pablo-cavada/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/aws.png": "/pablo-cavada/static/media/aws.e901bc3397ff5cdfd815.png",
+    "static/media/java.png": "/pablo-cavada/static/media/java.4e332879122f609caa57.png",
+    "static/media/bootstrap.png": "/pablo-cavada/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/css.png": "/pablo-cavada/static/media/css.74ff0b5fd86f9eadddd3.png",
+    "static/media/git.png": "/pablo-cavada/static/media/git.faccfae3c97596fcb27e.png",
+    "static/media/html.png": "/pablo-cavada/static/media/html.f3aa7827cd5160f3fc1c.png",
+    "static/media/docker.png": "/pablo-cavada/static/media/docker.f367f2dc7e5d0aaafb0a.png",
+    "static/media/ubuntu.png": "/pablo-cavada/static/media/ubuntu.e08935f106f6bd3a0860.png",
+    "static/media/shopify.png": "/pablo-cavada/static/media/shopify.e1b6c7ba1bf220abf4b0.png",
+    "static/media/react.png": "/pablo-cavada/static/media/react.cd4ab68456d5875b788e.png",
+    "static/media/mongo.png": "/pablo-cavada/static/media/mongo.c964002ecef4971216d0.png",
+    "static/media/python.png": "/pablo-cavada/static/media/python.f7f12e1bf59e577656a2.png",
     "index.html": "/pablo-cavada/index.html",
-    "main.abd64e84.css.map": "/pablo-cavada/static/css/main.abd64e84.css.map",
-    "main.bc3cbfb3.js.map": "/pablo-cavada/static/js/main.bc3cbfb3.js.map"
+    "main.95626df3.css.map": "/pablo-cavada/static/css/main.95626df3.css.map",
+    "main.7c43fc46.js.map": "/pablo-cavada/static/js/main.7c43fc46.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.bc3cbfb3.js"
+    "static/css/main.95626df3.css",
+    "static/js/main.7c43fc46.js"
   ]
 }
