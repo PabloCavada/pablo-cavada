@@ -1,0 +1,63 @@
+.form_container{
+    background: linear-gradient(90deg, #646FD4 0%, #242F9B 100%) ;
+    display: flex;
+    flex-wrap: wrap;
+    height: 27em;
+    width: 25em;
+    border-radius: 30px;
+    text-align: center;
+    color: white;
+    margin: auto;
+
+}
+.form_container h1{
+    font-size: 3em;
+    margin: auto;
+}
+
+.form{
+    display: block;
+    width: 10em;
+    margin-top: 1em;
+    margin-left:auto ;
+    margin-right: auto;
+    height: 10em;
+}
+.Send{
+    background: transparent;
+    border-color: #242F9B;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.form textarea{
+    background: transparent;
+    border-color: #242F9B; 
+}
+.btnSend{
+    color: white;
+    border-color: #242F9B;
+    border-radius: 30px;
+    width: 6em;
+    height: 3em;
+    background-color: transparent;
+    border-style:ridge;
+}
+
+.btnSend:hover{
+    background-color: #646FD4;
+}
+
+@media screen and (max-width: 450px){
+    .form_container{
+        background: transparent;
+    }
+}
+
+@media screen and (max-width: 400px){
+    .form_container{
+        margin: auto;
+        width: 100%;
+        background: transparent;
+    }
+}
