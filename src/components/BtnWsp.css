@@ -10,11 +10,19 @@
     border-bottom-right-radius: 20px ;
     z-index: 99999999;
     box-shadow: 0px 0px 14px 1px rgba(0,0,0,0.75);
+    transform: translateY(0) ;
+    transition: all 1s;
+}
+
+.btns.clicked{
+    transform: translateY(-285px);
+    transition: all 1s;
 }
 
 .btn_wsp{
     margin: 0.5em;
     color: rgb(16, 49, 49);
+    /* filter: drop-shadow(); */
 }
 .btn_wsp:hover{
     transition: all 0.5s;

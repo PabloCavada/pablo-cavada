@@ -4,6 +4,9 @@ import cartgif from "../../images/cartgif.gif"
 import basicecommerce from "../../images/basicecommerce.png"
 import facedesign from "../../images/facedesign.png"
 import shopifyproject from "../../images/shopifyproject.png"
+import gentalent from "../../images/gentalent.png"
+import GitHubIcon from '@mui/icons-material/GitHub';
+import LanguageIcon from '@mui/icons-material/Language';
 
 function Projects() {
   return (
@@ -18,9 +21,14 @@ function Projects() {
                     <li>Reviews on your products.</li>
                     <li>Payment Gateways</li>
                     <li>Custom designs.</li>
-                    <a href='https://gatowebdeveloper.herokuapp.com/' rel="noopener noreferrer" target={'_blank'}>
-                        <button className='btn_project'>Demo</button>
+                    <div className='buttons-project'>
+                    <a href='https://casa-qwcy.onrender.com' rel="noopener noreferrer" target={'_blank'}>
+                    <button className='button-29'><LanguageIcon/><span>Project View</span></button>
                     </a>
+                    <a href="https://github.com/gatowaton/Casa-Diaz-Project" rel="noopener noreferrer" target={'_blank'}>
+                    <button className='button-29'><GitHubIcon/><span>Git Code</span></button>
+                    </a>
+                    </div>
                 </div>
         </div>
 
@@ -33,9 +41,32 @@ function Projects() {
                     <li>Custom designs</li>
                     <li>Whatsapp web or Facebook chat</li>
                     <li>Contact Form</li>
+                    <span>Pass:<strong> gato</strong></span>
+                    <div className='buttons-project'>
                     <a href='https://gatowebdeveloper.myshopify.com/' rel="noopener noreferrer" target={'_blank'}>
+                    <button className='button-29'><LanguageIcon/><span>Project View</span></button>
                     </a>
-                        <button className='btn_project'>Demo</button> <span>Pass:<strong> gato</strong></span>
+                    </div>
+                </div>
+        </div>
+
+        <div className="project">
+                <img src={gentalent} alt={gentalent} loading='lazy'  />
+                <div className='project_info'>
+                    <h3>Custom sections</h3>
+                    <li>Dynamics badges</li>
+                    <li>Custom designs</li>
+                    <li>Whatsapp web or Facebook chat</li>
+                    <li>Contact Form</li>
+                    <span>Pass:<strong> gato</strong></span>
+                    <div className='buttons-project'>
+                    <a href='https://gentalent.onrender.com/' rel="noopener noreferrer" target={'_blank'}>
+                    <button className='button-29'><LanguageIcon/><span>Project View</span></button>
+                    </a>
+                    <a href="https://github.com/gatowaton/gentalent" rel="noopener noreferrer" target={'_blank'}>
+                    <button className='button-29'><GitHubIcon/><span>Git Code</span></button>
+                    </a>
+                    </div>
                 </div>
         </div>
 
@@ -47,9 +78,14 @@ function Projects() {
                     <li>Custom designs</li>
                     <li>Whatsapp web or Facebook chat</li>
                     <li>Contact Form</li>
+                    <div className='buttons-project'>
                     <a href='https://gatowaton.github.io/react-1/' rel="noopener noreferrer" target={'_blank'}>
-                        <button className='btn_project'>Demo</button>
+                    <button className='button-29'><LanguageIcon/><span>Project View</span></button>
                     </a>
+                    <a href="https://github.com/gatowaton/react-1" rel="noopener noreferrer" target={'_blank'}>
+                    <button className='button-29'><GitHubIcon/><span>Git Code</span></button>
+                    </a>
+                    </div>
                 </div>
         </div>
 
@@ -59,9 +95,14 @@ function Projects() {
                 <div className='project_info'>
                     <h3>Clone Designs</h3>
                     <li>Facebook Home page</li>
-                    <a href='http://web4.gatowebdeveloper.com/' rel="noopener noreferrer" target={'_blank'}>
-                        <button className='btn_project'>Demo</button>
+                    <div className='buttons-project'>
+                    <a href="https://gatowaton.github.io/react-2/" rel="noopener noreferrer" target={'_blank'}>
+                    <button className='button-29'><LanguageIcon/><span>Project View</span></button>
                     </a>
+                    <a href="https://github.com/gatowaton/react-2" rel="noopener noreferrer" target={'_blank'}>
+                    <button className='button-29'><GitHubIcon/><span>Git Code</span></button>
+                    </a>
+                    </div>
                 </div>
         </div>
             

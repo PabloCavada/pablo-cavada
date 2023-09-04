@@ -1,8 +1,6 @@
 import React from 'react';
 import "./Home.css"
 import Frames from "../../components/home/Frames"
-import Mail from "../mail/Mail"
-import "../mail/Mail.css"
 import Projects from '../projects/Projects';
 import BtnWsp from '../BtnWsp';
 
@@ -17,7 +15,6 @@ export default function Home() {
           <h1>Pablo Cavada</h1>
           <h2>Full Stack Developer</h2>
           <p>Get your own website, technical support and hosting plans, according to your needs.</p>
-          <Mail/>
         </div>
       </div>
       

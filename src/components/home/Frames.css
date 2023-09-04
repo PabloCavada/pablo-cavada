@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: auto 5em;
+    margin: auto;
     & div{
         display: flex;
         background-color: white;
