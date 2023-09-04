@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pablo-cavada/static/css/main.95626df3.css",
-    "main.js": "/pablo-cavada/static/js/main.7c43fc46.js",
+    "main.css": "/pablo-cavada/static/css/main.7ec5d8fb.css",
+    "main.js": "/pablo-cavada/static/js/main.1f2392aa.js",
     "static/media/home1.jpg": "/pablo-cavada/static/media/home1.2605f071e1c12030e597.jpg",
     "static/media/cartgif.gif": "/pablo-cavada/static/media/cartgif.83e08cb3305d20206d6c.gif",
     "static/media/facedesign.png": "/pablo-cavada/static/media/facedesign.e2bc1fbc3e1ee1228e19.png",
@@ -10,6 +10,7 @@
     "static/media/sql.png": "/pablo-cavada/static/media/sql.167c88550478e6f0f85c.png",
     "static/media/js.png": "/pablo-cavada/static/media/js.ba0a928588f389c91981.png",
     "static/media/tailwind.png": "/pablo-cavada/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/gentalent.png": "/pablo-cavada/static/media/gentalent.bcebe752d4776461b75f.png",
     "static/media/aws.png": "/pablo-cavada/static/media/aws.e901bc3397ff5cdfd815.png",
     "static/media/java.png": "/pablo-cavada/static/media/java.4e332879122f609caa57.png",
     "static/media/bootstrap.png": "/pablo-cavada/static/media/bootstrap.cb0fcc269e8250f3551b.png",
@@ -23,11 +24,11 @@
     "static/media/mongo.png": "/pablo-cavada/static/media/mongo.c964002ecef4971216d0.png",
     "static/media/python.png": "/pablo-cavada/static/media/python.f7f12e1bf59e577656a2.png",
     "index.html": "/pablo-cavada/index.html",
-    "main.95626df3.css.map": "/pablo-cavada/static/css/main.95626df3.css.map",
-    "main.7c43fc46.js.map": "/pablo-cavada/static/js/main.7c43fc46.js.map"
+    "main.7ec5d8fb.css.map": "/pablo-cavada/static/css/main.7ec5d8fb.css.map",
+    "main.1f2392aa.js.map": "/pablo-cavada/static/js/main.1f2392aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.95626df3.css",
-    "static/js/main.7c43fc46.js"
+    "static/css/main.7ec5d8fb.css",
+    "static/js/main.1f2392aa.js"
   ]
 }
