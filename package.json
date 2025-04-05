@@ -2,7 +2,7 @@
   "name": "portafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gatowaton.github.io/pablo-cavada",
+  "homepage": "https://pablocavada.github.io/pablo-cavada",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emailjs/browser": "^3.6.2",
